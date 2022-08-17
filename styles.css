@@ -19,7 +19,7 @@ body {
 }
 
 .header, .footer {
-    padding: 16px 120px;
+    padding: 16px 180px;
     background-color: #1F2937;
     display: flex;
     align-items: center;
@@ -54,7 +54,7 @@ a {
 }
 
 .section-one, .section-two, .section-three, .section-four {
-    padding: 80px 120px;
+    padding: 80px 180px;
     display: flex;
     flex: 1;
     align-items: center;
