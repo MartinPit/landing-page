@@ -87,22 +87,17 @@ a {
     color: #E5E7EB;
 }
 
-button {
+.button-one {
     padding: 6px 0;
     border-radius: 4px;
     border: none;
     background-color: #3882F6;
     color: #E5E7EB;
     font-weight: bolder;
-    height: 28px;
-    width: 97px;
-    flex-shrink: 0;
 }
 
-button a {
-    height: 28px;
-    width: 97px;
-
+.button-one a {
+    padding: 6px 25px;
 }
 
 .img {
@@ -188,6 +183,16 @@ button a {
     color: #E5E7EB;
 }
 
-.modal button {
+.button-two {
+    background-color: #3882F6;
     border: 1px solid #E5E7EB;
+    color: #E5E7EB;
+    padding: 6px 0;
+    border-radius: 4px;
+    font-weight: bolder;
+    flex-shrink: 0;
+}
+
+.button-two a {
+    padding: 6px 24px;
 }
